@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohitshaw01" alt="mohitshaw01" /></a> </p>
 
-- 🔭 I’m currently working on [Pinterest Clone](https://github.com/mohitshaw01/pinterest)
+- 🔭 I’m currently working on [Pinterest Clone](https://github.com/mohitshaw01/chai-backend)
 
 - 🌱 I’m currently learning **Devops**
 
@@ -21,7 +21,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/mohit-kumar-shaw-b74000218" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/mohit-kumar-shaw-b74000218" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/www.linkedin.com/in/mohitshawmath" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/mohit-kumar-shaw-b74000218" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/https://www.hackerrank.com/profile/mohitshawmath" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/mohitshawmath" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/https://www.leetcode.com/profile/mohitshawmath" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://www.leetcode.com/profile/mohitshawmath" height="30" width="40" /></a>
 </p>
